@@ -1,0 +1,3 @@
+bower init
+bower install jauery --save
+bower install boorstrap --save

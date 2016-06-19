@@ -1,0 +1,25 @@
+{
+  "name": "index.html",
+  "description": "",
+  "main": "index.html",
+  "keywords": [
+    "index"
+  ],
+  "authors": [
+    "sugar"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "Swiper": "swiper#^3.3.1"
+  }
+}
